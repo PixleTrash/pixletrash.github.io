@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: Introducing thk127
 ---
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+There is nothing much to say about THK besides that he was created upon the discovery of the internet.  Placed in the idea of an organized system with files, managemnet and logic.  Seperate, yet together.  THK held on to the very idea that data has to mean something.  Every breath, every button pressed.  It must mean something.
 
-### Built on Poop
+### Built on Photos
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
+Digital Photographs come into my world.  This unquestionable perminant data.  Posted, Perminint, attention.  Someonone out there saw me.  Not for who I really was but the persona that I created.  Intentional and un-intentional contacts started ariving in my inbox.  Contact from strangers that actually wanted to know me.  People on the same planet with me that thought my ideas were worth someting.  My insignificant life has affected another.  Converations start, perisit and grow over time.  Knowledge gained and lost.  Hope for a friend and getting desprate people that want to fuck.  
 
 * Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
 * Mobile friendly design and development
